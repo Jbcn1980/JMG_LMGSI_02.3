@@ -45,7 +45,7 @@ He averiguat que el primer error és degut a que no he introduït un charset al 
 
 El segon error és perquè el width de img no pot ser un percentatge. Em passa exactament el mateix, al intentar arreglar aquest error em desmunta la pàgina i no sóc a temps d'arreglar-ho.
 
-Ja per últim pujo el projecte al repositori JMG_LMGSI_02.3 de la versió indentada i la versió minimificada a un github branch.
+Ja per últim pujo el projecte al repositori JMG_LMGSI_02.3 de la versió indentada i la versió minimificada al branch JMG_LMGSI_02.3_minified.
 
 Només em queda per comentar que al llarg de la pràctica he anat visualitzant el resultat tant amb Mozilla Firefox com amb Google Chrome, i a diferents tamanys de pantalla perquè tinc un monitor extern (17") connectat al portàtil (15"). A més, quan ja tenia configurades les media queries també ho comprovava per mòbils i tablets en ambdues orientacions amb f12 de Google Chrome.
 
