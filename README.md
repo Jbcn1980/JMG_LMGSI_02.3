@@ -32,7 +32,7 @@ A continuació he creat els marcadors que ens donen dades sobre la nau. Volia qu
 
 Fins ara he estat treballant amb 2 css, el de la home i el de en construcció. Ara que ja tinc tots els elements col.locats, he fet una còpia de cada css i els he renombrat, així tenia l'original per a pantalles de més de 720px i el que acabava de copiar per poder-lo modificar i ajustar els elements per pantalles de menys de 720px.
 
-No he acabat d'entendre com fer servir l'opció de sprites, per tant he passat directament a la minimificació. He fet una còpia de la carpeta del projecte, així ja tenia tots els html i css inclosos i amb les tutes adeqüades per trobar-se entre ells i trobar les imatges. He anat obrint un per un els html i els css i substituïnt el text pel mateix text minimificat, utilitzant https://www.willpeavy.com/minifier/.
+No he acabat d'entendre com fer servir l'opció de sprites, per tant he passat directament a la minimificació. He fet una còpia de la carpeta del projecte, així ja tenia tots els html i css inclosos i amb les rutes adeqüades per trobar-se entre ells i trobar les imatges. He anat obrint un per un els html i els css i substituïnt el text pel mateix text minimificat, utilitzant https://www.willpeavy.com/minifier/.
 
 Només ens queda validar el codi de tots els arxius utilitzats, farem els html amb https://validator.w3.org/ i els css amb https://jigsaw.w3.org/css-validator/.
 
