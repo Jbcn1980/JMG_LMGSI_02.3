@@ -1,0 +1,101 @@
+﻿body {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: black;
+    font-family: comic sans ms;
+}
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: transparent;
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover {
+color: white;
+background-color: rgb(62,12,232);
+}
+
+.active {
+color: #4CAF50;
+}
+
+#website {
+    height: 25%;
+    width: 25%;
+    position: fixed;
+    left: 37%;
+    top: 7%;
+}
+
+#obras {
+    height: 25%;
+    width: 25%;
+    position: fixed;
+    bottom: 50%;
+    z-index: 2;
+    left: 25%;
+
+}
+
+#vallas {
+    height: 40%;
+    width: 40%;
+    position: fixed;
+    bottom: 15%;
+    right: 15%;
+    z-index: 1;
+}
+
+.volver {
+    position: fixed;
+    bottom: 5%;
+    text-align: center;
+    background-color: red;
+    color: white;
+    margin-left: 46%;
+    margin-right: 46%;
+    z-index: 3;
+}
+
+.volver:link {
+    color: white;
+    background-color: red;
+    text-decoration: none;
+}
+
+.volver:visited {
+    color: white;
+    background-color: red;
+    text-decoration: none;
+}
+
+.volver:hover {
+    color: red;
+    background-color: white;
+    text-decoration: none;
+}
+
+.volver:active {
+    color: yellow;
+    background-color: black;
+    text-decoration: none;
+}
