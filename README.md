@@ -41,7 +41,7 @@ Els css no m'han donat cap problema, en canvi en tots els html he tingut 2 error
 - The character encoding was not declared. Proceeding using windows-1252
 - Bad value 100% for attribute width on element img: Expected a digit but saw % instead
 
-He averiguat que el primer error és degut a que no he introduït un charset al head i que havia d'haver emprat  <meta charset="UTF-8"> . Ho he intentat fer però em canvia les proporcions dels elements i ja no sóc a temps d'arreglar-ho, per tant, he preferit que em doni aquests errors però la web tingui un nivell estètic acceptable, a la propera pràctica ho podré aplicar.
+He averiguat que el primer error és degut a que no he introduït un charset al head i que havia d'haver emprat meta charset="UTF-8". Ho he intentat fer però em canvia les proporcions dels elements i ja no sóc a temps d'arreglar-ho, per tant, he preferit que em doni aquests errors però la web tingui un nivell estètic acceptable, a la propera pràctica ho podré aplicar.
 
 El segon error és perquè el width de img no pot ser un percentatge. Em passa exactament el mateix, al intentar arreglar aquest error em desmunta la pàgina i no sóc a temps d'arreglar-ho.
 
