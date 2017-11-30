@@ -26,7 +26,7 @@ Fins ara tenim 5 arxius html, home (index.html) i 4 per la resta d'opcions del m
 
 M'ha semblat que tenir un enllaç a la home des de la pròpia home era ridícul a més d'innecesari, i a index.html he modificat el menú respecte a la resta d'html. He aprofitat l'espai de l'enllaç home i on hauria d'estar l'enllaç a la home he posat el play. L'he destacat amb color verd perquè és la senyal d'inici que tenim assimilada pels semàfors, a més destaca sense ser cridaner.
 
-He fet una altra còpia de l'arxiu en construcció i  l'he anomenat play. Al fer click al play de la home et redirigeix fins aquí.
+He fet una altra còpia de l'arxiu en construcció i  l'he anomenat play. Ara al fer click al play de la home et redirigeix fins aquí.
 
 A continuació he creat els marcadors que ens donen dades sobre la nau. Volia que fossin ben visibles però sense destacar excessivament. He escollit el gris metàl.lic perquè és elegant i recorda a la vora dels marcadors d'avions o cotxes antics, o també als ordinadors MacBook; tot relacionat amb tecnologia, igual que a un viatge espacial. Els valors inicials de velocitat i alçada els he buscat per internet.
 
