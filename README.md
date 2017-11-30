@@ -2,7 +2,7 @@
 
 
 
-DESENVOLUPAMENT
+**_DESENVOLUPAMENT_**
 
 Degut a que l'objectiu d'aquesta pràctica és acabar fent un petit joc online, he vist adient donar-li bastant importància a l'aspecte visual, així que el primer que he fet ha estat buscar les imatges.
 
@@ -51,7 +51,7 @@ Només em queda per comentar que al llarg de la pràctica he anat visualitzant e
 
 
 
-WEBS CONSULTADES
+**_WEBS CONSULTADES_**
 
 http://fpadistancia.caib.es/course/view.php?id=286
 
